@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Message"
+  short_description: "Generate commit messages from staged diffs"
+  default_prompt: "Use $git-write-commit-message to generate a commit message for my staged changes."
