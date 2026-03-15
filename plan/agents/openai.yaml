@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan With Scenarios And Tasks"
+  short_description: "Require scenarios, tests, and task checklists"
+  default_prompt: "Use $plan-with-scenarios-and-tasks to produce a decision-complete plan with explicit scenarios, validation, and implementation tasks."
